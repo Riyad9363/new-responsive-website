@@ -1,0 +1,36 @@
+@media (max-width:350px) {
+    .product-price h1 {
+        margin-right: 48px;
+    }
+    .banner-btn {
+        padding: 5px 12px;
+    }
+}
+@media (max-width:1220px) {
+    .product-img img {
+        width: 168px;
+    }
+    .skin-pure-2 .product-item .product-img img {
+        width: 183px;
+    }
+    product-price h1 {
+        margin-right: 27px;
+    }
+    .banner-btn {
+        padding: 5px 9px;
+    }
+}
+@media (max-width:970px){
+    
+}
+@media (max-width:780px) {
+    .icon-img {
+        width: 100%;
+        text-align: center;
+    }
+    .content-text {
+        padding: 13px;
+        width: 100%;
+        text-align: center;
+    }
+}
